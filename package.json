@@ -11,13 +11,9 @@
     "test": "jest",
     "test:watch": "jest --watch"
   },
-  "repository": "",
-  "author": "Teslima02",
+  "repository": "https://github.com/Teslima02/gomoney.git",
+  "author": "Teslim",
   "license": "ISC",
-  "bugs": {
-    "url": ""
-  },
-  "homepage": "",
   "private": true,
   "dependencies": {
     "bcrypt": "^5.0.0",
